@@ -33,3 +33,6 @@ input{
 .o{
    color: green;
 }
+.se:hover{
+    border: none;
+}
