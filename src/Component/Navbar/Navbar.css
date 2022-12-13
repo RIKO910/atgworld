@@ -1,0 +1,35 @@
+.search{
+    height: 42px;
+    width: 360px;
+    border: none;
+    border-radius: 21px;
+    color: gray;
+    background-color: #F2F2F2;
+    position: relative;
+    display: inline-block;
+
+}
+.icon {
+    position: absolute;
+    left: 0;
+    margin-top: 13px;
+    margin-left: 10px;
+  }
+input{
+    margin-top: 10px;
+    margin-left: px;
+    width: 280px;
+    background-color: #F2F2F2;
+    border: none;
+    border-radius: 21px;
+
+}
+.it{
+    color: blue;
+}
+.atg{
+    color: green;
+}
+.o{
+   color: green;
+}
